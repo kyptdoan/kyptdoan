@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**kyptdoan/kyptdoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi, I'm Phuong Thu Ky Doan (Ky)!
 Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 
@@ -62,3 +60,8 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 - LinkedIn: [linkedin.com/in/kyptdoan](https://linkedin.com/in/kyptdoan)
 - Email: ky.phuongthu.doan@gmail.com
 
+---
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyptdoan&show_icons=true&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyptdoan&layout=compact&theme=radical)
+![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyptdoan&theme=dracula)
