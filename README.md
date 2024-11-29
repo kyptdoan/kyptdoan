@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **kyptdoan/kyptdoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hi, I'm Phuong Thu Ky Doan (Ky)!
@@ -15,11 +14,13 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-0097A9?logo=gazebo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Open3D](https://img.shields.io/badge/-Open3D-3EA7A1?logo=Open3D&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
@@ -28,7 +29,6 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 - 🧪 Research Intern at **Lincoln Centre for Autonomous Systems**.
 - Tools: Python, Open3D, OpenCV, Sci-kit Learn, TensorFlow, CUDA, OpenMP.
 - 🤖 Leading a team of 5 in a **Robot Waiter Project** utilizing **ROS**, **2D/3D localization**, and **simulation**.
-- 🎮 Created an advanced **ConnectX Battlefield** game with special moves and custom rules.
 - 🌍 Volunteered as an **Academic Representative** to improve the student academic experience.
 
 ---
@@ -55,13 +55,6 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 ### [ConnectX Battlefield](https://github.com/kyptdoan/ConnectX-Battlefield)
 - **Language**: Python  
 - A strategic twist on the classic Connect4 game with custom rules and special moves.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyptdoan&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyptdoan&layout=compact&theme=radical)
-![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyptdoan&theme=dracula)
 
 ---
 
