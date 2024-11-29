@@ -3,7 +3,7 @@
 👋 Hi, I'm Phuong Thu Ky Doan (Ky)!
 Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 
-🔭 Working on cutting-edge projects in **Computer Vision**, **Robotics**, and **Game Development**.  
+🔭 Working on cutting-edge projects in **Computer Vision**, **Robotics**, and **Software Development**.  
 🌱 Passionate about solving complex problems with code and creating tools for the future.  
 ✨ Always exploring new technologies to push boundaries in AI and automation.
 
