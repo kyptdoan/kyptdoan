@@ -59,7 +59,6 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyptdoan&show_icons=true&theme=radical)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyptdoan&layout=compact&theme=radical)
-![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyptdoan&theme=dracula)
 
 ---
 
