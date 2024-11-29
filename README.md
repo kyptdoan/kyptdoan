@@ -53,6 +53,13 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 ### [ConnectX Battlefield](https://github.com/kyptdoan/ConnectX-Battlefield)
 - **Language**: Python  
 - A strategic twist on the classic Connect4 game with custom rules and special moves.
+  
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyptdoan&show_icons=true&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyptdoan&layout=compact&theme=radical)
+![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyptdoan&theme=dracula)
 
 ---
 
@@ -60,8 +67,4 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 - LinkedIn: [linkedin.com/in/kyptdoan](https://linkedin.com/in/kyptdoan)
 - Email: ky.phuongthu.doan@gmail.com
 
----
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyptdoan&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyptdoan&layout=compact&theme=radical)
-![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyptdoan&theme=dracula)
+
