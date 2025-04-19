@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I'm Ky!
-Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
-
-🔭 Working on cutting-edge projects in **Computer Vision**, **Robotics**, and **Software Development**.  
-🌱 Passionate about solving complex problems with code and creating tools for the future.  
-✨ Always exploring new technologies to push boundaries in AI and automation.
-
+👋 Hi, I'm Ky! I'm a second-year Computer Science student at the University of Lincoln, England, with a strong passion for Robot Vision and a goal of pursuing a PhD in the field.
 ---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
