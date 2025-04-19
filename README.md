@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I'm Phuong Thu Ky Doan (Ky)!
+👋 Hi, I'm Ky!
 Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 
 🔭 Working on cutting-edge projects in **Computer Vision**, **Robotics**, and **Software Development**.  
@@ -24,11 +24,7 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 
 ## 👨‍💻 About Me
 - 🎓 2nd Year Computer Science Student at **University of Lincoln**.
-- 🧪 Research Intern at **Lincoln Centre for Autonomous Systems**.
-- Tools: Python, Open3D, OpenCV, Sci-kit Learn, TensorFlow, CUDA, OpenMP.
-- 🤖 Leading a team of 5 in a **Robot Waiter Project** utilizing **ROS**, **2D/3D localization**, and **simulation**.
-- 🌍 Volunteered as an **Academic Representative** to improve the student academic experience.
-
+- 🧪 Research Intern at **Media Informatik Group, LMU Munich, Germany** and **Lincoln Centre of Autonomous System, University of Lincoln, UK**.
 ---
 
 ## 🛠️ Technologies & Tools
