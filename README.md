@@ -24,7 +24,7 @@ Aspiring Computer Scientist | Robotics Enthusiast | Machine Learning Explorer
 
 ## 👨‍💻 About Me
 - 🎓 2nd Year Computer Science Student at **University of Lincoln**.
-- 🧪 Research Intern at **Media Informatik Group, LMU Munich, Germany** and **Lincoln Centre of Autonomous System, University of Lincoln, UK**.
+- 🧪 Research Intern at **Media Informatik Group, LMU Munich, Germany** and **Lincoln Centre for Autonomous System, University of Lincoln, UK**.
 ---
 
 ## 🛠️ Technologies & Tools
