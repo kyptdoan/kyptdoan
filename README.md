@@ -22,28 +22,22 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C++, C#, JavaScript  
-- **Libraries/Frameworks**: OpenCV, TensorFlow, Open3D  
+- **Languages**: Python, C++, C# 
+- **Libraries/Frameworks**: OpenCV, TensorFlow, Open3D, Numpy, Pandas
 - **Robotics**: ROS, Gazebo, Rviz  
 - **Machine Learning**: K-Means, DBSCAN, Unsupervised Learning  
-- **Tools**: Git, CloudCompare, LumaAI, Jupyter Notebooks  
+- **Tools**: Git, CloudCompare, LumaAI, Jupyter Notebooks, CUDA
 
 ---
 
 ## 🚀 Featured Projects
-
-### [Robot Waiter Project](https://github.com/kyptdoan/Robot_waitor_TIAGo)
+### [Robot Waiter Project](https://github.com/jozefbonnar/robot-waiter)
 - **Languages**: C++, Python  
 - Developed a robot waiter to serve customers by detecting waving gestures and communicating orders via ROS.
 
 ### [3D Point Cloud Segmentation](https://github.com/kyptdoan/3D-Point-Cloud-Automated-Segmentation)
 - **Tools**: Open3D, Sci-kit Learn, TensorFlow  
-- Achieved **65% segmentation accuracy** for strawberry plants with over 1M point clouds.
-
-### [ConnectX Battlefield](https://github.com/kyptdoan/ConnectX-Battlefield)
-- **Language**: Python  
-- A strategic twist on the classic Connect4 game with custom rules and special moves.
-  
+- Achieved **65% segmentation accuracy** for strawberry plants with over 1M point clouds.  
 ---
 
 ## 📊 GitHub Stats
@@ -55,5 +49,6 @@
 ## 📬 Let's Connect!
 - LinkedIn: [linkedin.com/in/kyptdoan](https://linkedin.com/in/kyptdoan)
 - Email: ky.phuongthu.doan@gmail.com
+- Website: [kyptdoan.github.io](https://kyptdoan.github.io)
 
 
