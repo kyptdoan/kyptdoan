@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I'm Ky! I'm a second-year Computer Science student at the University of Lincoln, England, with a strong passion for Robot Vision and a goal of pursuing a PhD in the field.
+👋 Hi, I'm Ky! I'm a third-year Computer Science student at the University of Lincoln, England, with a strong passion for Robot Perception and a goal of pursuing a PhD in the field.
 ---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 2nd Year Computer Science Student at **University of Lincoln**.
+- 🎓 3rd Year Computer Science Student at **University of Lincoln**.
 - 🧪 Research Intern at **Media Informatik Group, LMU Munich, Germany** and **Lincoln Centre for Autonomous System, University of Lincoln, UK**.
 ---
 
