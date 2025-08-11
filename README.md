@@ -22,7 +22,7 @@ I am a 3rd year Undergraduate student in Computer Science at the [University of 
 
 I am also collaborating with Dr. [Hao Xing](https://www.ce.cit.tum.de/air/people/hao-xing-m-sc/) from the [Institute for Cognitive Systems, Technical University of Munich (TUM)](https://www.ce.cit.tum.de/ics/home/) and doctoral researcher [Xuedong Zhang](https://www.medien.ifi.lmu.de/team/xuedong.zhang/) from the [Media Informatics Group, LMU Munich](https://www.medien.ifi.lmu.de/) on a project about 3D perspective taking in Human-Robot Interaction.
 
-I am deeply passionate about robotics, especially particularly enabling robots to perceive and understand their surroundings. I am seeking for a PhD opportunity in the field.
+I am deeply passionate about robotics, especially enabling robots to perceive and understand their surroundings. I am seeking for a PhD opportunity in the field.
 
 ---
 
