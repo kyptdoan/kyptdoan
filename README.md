@@ -15,10 +15,9 @@
 ---
 
 ## About Me
-- 3rd Year Computer Science Student at **University of Lincoln**.
-- Research Intern at **Media Informatics Group, LMU Munich, Germany** and **Lincoln Centre for Autonomous System, University of Lincoln, UK**.
-- My research interests: Robot Perception, Autonomous Mobile Robotics.
-- Visit my website: [kyptdoan.github.io](https://kyptdoan.github.io)
+I am a 3rd year Undergraduate student in Computer Science at the [University of Lincoln](https://lincoln.ac.uk), working with Professor [Grzegorz Cielniak](https://staff.lincoln.ac.uk/e69a17de-0ef1-4771-8004-646967ea1ac9) at the [Lincoln Institute for Autonomous System](https://lcas.lincoln.ac.uk) on my bachelor's final project about interactive perception in robotics.
+
+I am also collaborating with Dr. [Hao Xing](https://www.ce.cit.tum.de/air/people/hao-xing-m-sc/) from the [Institute for Cognitive Systems, Technical University of Munich (TUM)](https://www.ce.cit.tum.de/ics/home/) and doctoral researcher [Xuedong Zhang](https://www.medien.ifi.lmu.de/team/xuedong.zhang/) from the [Media Informatics Group, LMU Munich](https://www.medien.ifi.lmu.de/) on a project about perspective taking in Human-Robot Interaction.
 
 ---
 
