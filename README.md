@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 Hi, I'm Ky! I'm a third-year Computer Science student at the University of Lincoln, England, with a strong passion for Robot Perception and a goal of pursuing a PhD in the field.
+## Phuong Thu Ky Doan
 ---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -16,28 +14,12 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 3rd Year Computer Science Student at **University of Lincoln**.
-- 🧪 Research Intern at **Media Informatik Group, LMU Munich, Germany** and **Lincoln Centre for Autonomous System, University of Lincoln, UK**.
----
+## About Me
+- 3rd Year Computer Science Student at **University of Lincoln**.
+- Research Intern at **Media Informatics Group, LMU Munich, Germany** and **Lincoln Centre for Autonomous System, University of Lincoln, UK**.
+- My research interests: Robot Perception, Autonomous Mobile Robotics.
+- Visit my website: [kyptdoan.github.io](https://kyptdoan.github.io)
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, C++, C# 
-- **Libraries/Frameworks**: OpenCV, TensorFlow, Open3D, Numpy, Pandas
-- **Robotics**: ROS, Gazebo, Rviz  
-- **Machine Learning**: K-Means, DBSCAN, Unsupervised Learning  
-- **Tools**: Git, CloudCompare, LumaAI, Jupyter Notebooks, CUDA
-
----
-
-## 🚀 Featured Projects
-### [Robot Waiter Project](https://github.com/jozefbonnar/robot-waiter)
-- **Languages**: C++, Python  
-- Developed a robot waiter to serve customers by detecting waving gestures and communicating orders via ROS.
-
-### [3D Point Cloud Segmentation](https://github.com/kyptdoan/3D-Point-Cloud-Automated-Segmentation)
-- **Tools**: Open3D, Sci-kit Learn, TensorFlow  
-- Achieved **65% segmentation accuracy** for strawberry plants with over 1M point clouds.  
 ---
 
 ## 📊 GitHub Stats
