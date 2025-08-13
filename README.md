@@ -26,6 +26,13 @@ I am deeply passionate about robotics, especially enabling robots to perceive an
 
 ---
 
+## Robot Platforms I had experience with
+
+<div style="display: flex; gap: 10px;">
+  <img src="public/tiago.jpg" alt="Tiago" width="319"/>
+  <img src="public/kinova_kitchen.jpg" alt="Kinova" width="300"/>
+</div>
+
 ## 📬 Let's Connect!
 - LinkedIn: [linkedin.com/in/kyptdoan](https://linkedin.com/in/kyptdoan)
 - Email: ky.phuongthu.doan@gmail.com
